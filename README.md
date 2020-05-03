@@ -4,4 +4,4 @@ This extensions adds the ability for spawned (mobs) entities to stack into one e
 - plugin spawned entities (prevents custom bosses from stacking)
 - named or tamed entities
 - spawnegg spawned entities
-- entities defined in `config.yml` (default: irongolem, enderman, creeper)
+- entities defined in `config.yml` (default: irongolem, enderman, creeper, villager, wither, enderdragon)
